@@ -17,7 +17,7 @@ The solutions are categorized into folders based on the specific SQL concepts th
 | **[Sorting and Grouping](./Sorting%20and%20Grouping/)** | Result organization (`GROUP BY`, `HAVING`) and ordering. |
 | **[Advanced Select and Joins](./Advanced%20Select%20and%20Joins/)** | Complex joins, self-joins, and conditional logic (`CASE WHEN`). |
 | **[Subqueries](./Subqueries/)** | Nested queries and Common Table Expressions (CTE). |
-| **[Advanced String Functions / Regex](./Advanced%20String%20Functions%20Regex%20Clause/)** | String manipulation and pattern matching. |
+| **[Advanced String Functions / Regex](./Advanced%20String%20Functions%20%20Regex%20%20Clause/)** | String manipulation and pattern matching. |
 
 ---
 
@@ -37,9 +37,9 @@ Throughout this challenge, I have mastered the following advanced SQL techniques
 
 | # | Problem | Key Concept | Link |
 | :--- | :--- | :--- | :--- |
-| 585 | Investments in 2016 | Window Functions & Filtering | [View Script](./Advanced%20Select%20and%20Joins/585.%20Investments%20in%202016.sql) |
+| 585 | Investments in 2016 | Window Functions & Filtering | [View Script](./Subqueries/585.%20Investments%20in%202016.sql) |
 | 185 | Department Top Three Salaries | Dense Rank & Partitioning | [View Script](./Subqueries/185.%20Department%20Top%20Three%20Salaries.sql) |
-| 1204 | Last Person to Fit in the Bus | Running Totals (`SUM() OVER`) | [View Script](./Subqueries/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
+| 1204 | Last Person to Fit in the Bus | Running Totals (`SUM() OVER`) | [View Script](./Advanced%20Select%20and%20Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
 
 ---
 
