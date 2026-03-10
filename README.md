@@ -37,9 +37,12 @@ Throughout this challenge, I have mastered the following advanced SQL techniques
 
 | # | Problem | Key Concept | Link |
 | :--- | :--- | :--- | :--- |
-| 585 | Investments in 2016 | Window Functions & Filtering | [View Script](./Subqueries/585.%20Investments%20in%202016.sql) |
-| 185 | Department Top Three Salaries | Dense Rank & Partitioning | [View Script](./Subqueries/185.%20Department%20Top%20Three%20Salaries.sql) |
-| 1204 | Last Person to Fit in the Bus | Running Totals (`SUM() OVER`) | [View Script](./Advanced%20Select%20and%20Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
+| 550 | Game Play Analysis IV | Retention Logic (RANK & LEAD) | [View Script](./Basic%20Aggregate%20Functions/550.%20Game%20Play%20Analysis%20IV.sql) |
+| 1661 | Average Time of Process per Machine | Time Diff with Lead Window Function | [View Script](./Basic%20Joins/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql) |
+| 1321 | Restaurant Growth | Moving Averages (ROWS BETWEEN) | [View Script](./Subqueries/1321.%20Restaurant%20Growth.sql) |
+| 1907 | Count Salary Categories | Custom Categorization with UNION | [View Script](./Advanced%20Select%20and%20Joins/1907.%20Count%20Salary%20Categories.sql) |
+| 585 | Investments in 2016 | Multi-level Filtering (COUNT OVER) | [View Script](./Subqueries/585.%20Investments%20in%202016.sql) |
+| 1204 | Last Person to Fit in the Bus | Running Totals (Cumulative Sum) | [View Script](./Advanced%20Select%20and%20Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
 
 ---
 
